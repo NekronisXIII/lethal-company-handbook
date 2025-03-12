@@ -24,6 +24,13 @@
 ### Map
 ![Experimentation map](https://static.wikia.nocookie.net/lethalcompanyzeekerss/images/3/35/Experimentationmap.jpg/revision/latest?cb=20231122132314 "Experimentation")
 
+### Interior
+| Location  | Spawn Chance |
+|-----------|-------------|
+| Factory   | 98.68%      |
+| Mineshaft | 0.99%       |
+| Manor     | 0.33%       |
+
 ### Enemies
 | Indoors        | Spawn Chance |
 |---------------|--------------|
@@ -38,6 +45,13 @@
 ## Assurance
 ### Map
 ![Assurance map](https://static.wikia.nocookie.net/lethalcompanyzeekerss/images/2/27/Assurancemap.jpg/revision/latest?cb=20231122131744 "Assurance")
+
+### Interior
+| Location  | Spawn Chance |
+|-----------|-------------|
+| Factory   | 87.45%      |
+| Mineshaft | 11.66%      |
+| Manor     | 0.88%       |
 
 ### Enemies
 | Indoors       | Spawn Chance |
@@ -54,6 +68,14 @@
 ### Map
 ![Vow map](https://static.wikia.nocookie.net/lethalcompanyzeekerss/images/d/df/Vowmap.jpg/revision/latest?cb=20231122132605 "Vow")
 
+### Interior
+| Location  | Spawn Chance |
+|-----------|-------------|
+| Factory   | 54%         |
+| Mineshaft | 45%         |
+| Manor     | 0.54%       |
+
+
 ### Enemies
 | Indoors      | Spawn Chance |
 |-------------|--------------|
@@ -68,6 +90,13 @@
 ## Offense
 ### Map
 ![Offense map](https://static.wikia.nocookie.net/lethalcompanyzeekerss/images/2/22/Offensemap.jpg/revision/latest?cb=20231122132759 "Offense")
+
+### Interior
+| Location  | Spawn Chance |
+|-----------|-------------|
+| Mineshaft | 66.1%       |
+| Factory   | 33.04%      |
+| Manor     | 0.88%       |
 
 ### Enemies
 | Indoors        | Spawn Chance |
@@ -84,6 +113,13 @@
 ### Map
 ![March map](https://static.wikia.nocookie.net/lethalcompanyzeekerss/images/9/94/Marchmap.jpg/revision/latest?cb=20231122132955 "March")
 
+### Interior
+| Location  | Spawn Chance |
+|-----------|-------------|
+| Factory   | 100%        |
+| Manor     | 0%          |
+| Mineshaft | 0%          |
+
 ### Enemies
 | Indoors        | Spawn Chance |
 |---------------|--------------|
@@ -98,6 +134,13 @@
 ## Adamance
 ### Map
 ![Adamance map](https://static.wikia.nocookie.net/lethalcompanyzeekerss/images/2/2a/Adamance_moon.png/revision/latest?cb=20240419143748 "Adamance")
+
+### Interior
+| Location  | Spawn Chance |
+|-----------|-------------|
+| Factory   | 67%         |
+| Mineshaft | 30.13%      |
+| Manor     | 2.9%        |
 
 ### Enemies
 | Indoors        | Spawn Chance |
@@ -114,6 +157,13 @@
 ### Map
 ![Rend map](https://static.wikia.nocookie.net/lethalcompanyzeekerss/images/2/23/Rend_Map_Log_Update_2024011.png/revision/latest?cb=20240110060052 "Rend")
 
+### Interior
+| Location  | Spawn Chance |
+|-----------|-------------|
+| Manor     | 84%         |
+| Mineshaft | 14%         |
+| Factory   | 1.4%        |
+
 ### Enemies
 | Indoors      | Spawn Chance |
 |-------------|--------------|
@@ -128,6 +178,13 @@
 ## Dine
 ### Map
 ![Dine map](https://static.wikia.nocookie.net/lethalcompanyzeekerss/images/e/eb/Map_of_Dine.png/revision/latest?cb=20240827163110  "Dine")
+
+### Interior
+| Location  | Spawn Chance |
+|-----------|-------------|
+| Manor     | 67.11%      |
+| Mineshaft | 31.32%      |
+| Factory   | 1.56%       |
 
 ### Enemies
 | Indoors  | Spawn Chance |
@@ -144,6 +201,13 @@
 ### Map
 ![Titan map](https://static.wikia.nocookie.net/lethalcompanyzeekerss/images/f/f9/Titanmap.png/revision/latest?cb=20240110062242 "Titan")
 
+### Interior
+| Location  | Spawn Chance |
+|-----------|-------------|
+| Factory   | 64%         |
+| Mineshaft | 24%         |
+| Manor     | 12%         |
+
 ### Enemies
 | Indoors   | Spawn Chance |
 |-----------|--------------|
@@ -158,6 +222,13 @@
 ## Artifice
 ### Map
 ![Artifice map](https://static.wikia.nocookie.net/lethalcompanyzeekerss/images/2/25/Artifice_Moon.png/revision/latest?cb=20240419204623 "Artifice")
+
+### Interior
+| Location  | Spawn Chance |
+|-----------|-------------|
+| Mineshaft | 49.77%      |
+| Manor     | 35.28%      |
+| Factory   | 15%         |
 
 ### Enemies
 | Indoors      | Spawn Chance |
@@ -174,6 +245,13 @@
 ### Map
 ![Embrion map](https://static.wikia.nocookie.net/lethalcompanyzeekerss/images/4/4f/Embrion_Map.png/revision/latest?cb=20240419203526 "Embrion")
 
+### Interior
+| Location  | Spawn Chance |
+|-----------|-------------|
+| Factory   | 84.75%      |
+| Mineshaft | 12.43%      |
+| Manor     | 2.83%       |
+
 ### Enemies
 | Indoors       | Spawn Chance |
 |--------------|--------------|
@@ -187,6 +265,9 @@
 
 ## Liquidation
 ### Map
+Unknown
+
+### Interior
 Unknown
 
 ### Enemies
